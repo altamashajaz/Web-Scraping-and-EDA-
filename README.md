@@ -12,14 +12,14 @@ This repository serves as a comprehensive exploration of the streaming entertain
 - Jupyter Notebook
 
 ## Contents
-- `web_scraping_analysis.ipynb`: Jupyter Notebook containing the code for web scraping, data analysis, and visualization.
+- `WebScraping.ipynb`: Jupyter Notebook containing the code for web scraping, data analysis, and visualization.
 - `README.md`: This file, providing an overview of the project.
 
 ## How to Use
 1. **Ensure Python is Installed:** Make sure you have Python installed on your system.
 2. **Install Required Libraries:** Install the necessary libraries: `beautifulsoup4`, `requests`, `pandas`, `matplotlib`, and `seaborn`.
 3. **Clone the Repository:** Clone this repository to your local machine.
-4. **Open Jupyter Notebook:** Open the `web_scraping_analysis.ipynb` notebook using Jupyter Notebook.
+4. **Open Jupyter Notebook:** Open the `Web Scraping.ipynb` notebook using Jupyter Notebook.
 5. **Execute Code Cells:** Follow the instructions within the notebook to execute the code cells and perform analysis.
 6. **Explore Findings:** Explore the findings and visualizations generated from the scraped data.
 
